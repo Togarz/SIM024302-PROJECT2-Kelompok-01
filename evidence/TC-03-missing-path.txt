@@ -1,0 +1,2 @@
+[2026-11-19 15:34:27] [ERROR] Direktori target tidak ditemukan: data/input/tidak-ada
+Exit status: 2
